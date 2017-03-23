@@ -1,4 +1,4 @@
-#Hadoop 101
+# Hadoop 101
 
 Use the following tutorial for Single Node Hadoop Cluster Setup on Ubuntu
 
